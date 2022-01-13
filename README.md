@@ -1,3 +1,3 @@
-# HTML1-Alura
+# HTML2-Alura
 
-Projeto sobre o primeiro curso de uma serie sobre HTML e CSS na plataforma da Alura 
+Projeto sobre o segundo curso de uma serie sobre HTML e CSS na plataforma da Alura
