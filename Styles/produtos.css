@@ -4,4 +4,13 @@ header {
 
 nav li {
   display: inline-block;
+  margin-left: 15px;
+}
+
+nav a {
+  text-transform: uppercase;
+  color: #000;
+  font-weight: bold;
+  font-size: 22px;
+  text-decoration: none;
 }
